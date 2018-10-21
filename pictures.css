@@ -1,0 +1,15 @@
+img{
+    width: 30%; /*add grid for the images, putting 3 images since they take 90% of total width*/
+    float:left; /* got rid of the white soace in between that the browsewr adds*/
+    margin: 1.6%; /*add space between each image*/
+}
+p{
+    font-family:Raleway; /*uses google font*/ 
+    margin-left:1.6%;
+    font-size: 25px;
+    font-weight: 800;
+    text-transform: uppercase; /*makes all text uppercase*/
+    border-bottom: 3px solid #6383b7;
+    width: 30%;
+    padding-bottom: 20px;
+}
